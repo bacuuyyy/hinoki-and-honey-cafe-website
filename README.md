@@ -22,7 +22,7 @@ Hinoki & Honey is a beautifully crafted web experience for a boutique cafe and b
 
 * 🌍 Live Demo
 View the live site here
-https://voidwolves-esport.netlify.app/
+https://hinoki-and-honey.netlify.app/
 
 ## 🚀 Getting Started
 
